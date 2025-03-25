@@ -26,11 +26,11 @@ Como QA Engineer, mi objetivo fue ejecutar pruebas de regresión para asegurar l
 
 ## 📂 Contenido del Repositorio  
 
-###🐞📄 `Josué Tenorio-1.er sprint.xlsx` → Archivo de Excel con:
+#### 🐞📄 `Josué Tenorio-1.er sprint.xlsx` → Archivo de Excel con:
 
-#### Hoja "Casos de Prueba": Registro de ejecución de pruebas.
-#### Hoja "Informes de Errores": Documentación de los errores encontrados.
+##### Hoja "Casos de Prueba": Registro de ejecución de pruebas.
+##### Hoja "Informes de Errores": Documentación de los errores encontrados.
 
-### 📝 Feedback Sprint 1.png → Captura del feedback recibido en la revisión del sprint.
+#### 📝 Feedback Sprint 1.png → Captura del feedback recibido en la revisión del sprint.
 
-### 📜 `README.md` → Este archivo con la descripción del proyecto.  
+#### 📜 `README.md` → Este archivo con la descripción del proyecto.  
