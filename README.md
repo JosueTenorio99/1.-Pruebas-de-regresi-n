@@ -26,6 +26,5 @@ Como QA Engineer, mi objetivo fue ejecutar pruebas de regresión para asegurar l
 
 ## 📂 Contenido del Repositorio  
 
-📄 `casos_de_prueba.xlsx` → Archivo con los resultados de la ejecución de pruebas.  
-🐞 `informes_de_errores.xlsx` → Documentación de los errores encontrados.  
+📄 `Josué Tenorio-1.er sprint.xlsx` → Archivo con los resultados de la ejecución de pruebas y la documentación de los errores encontrados.  
 📜 `README.md` → Este archivo con la descripción del proyecto.  
